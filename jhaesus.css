@@ -7,6 +7,7 @@
 
 body {
 	background-color: black;
+	min-width: 440px;
 }
 
 #contacts {
@@ -32,7 +33,7 @@ a:hover {
 	height: 32px;
 }
 
-.contact img:hover {	
+.contact img:hover {
 	width: 42px;
 	height: 42px;
 	margin-top: 5px;
